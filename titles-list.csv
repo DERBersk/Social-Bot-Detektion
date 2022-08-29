@@ -1,0 +1,316 @@
+Publikationsjahr;ZielrichtungU;ZielrichtungO;ImitationU;ImitationO;SteuerungU;SteuerungO;NeuheitU;NeuheitO;NetzwerkgroesseU;NetzwerkgroesseO;nnAnsatz;SNS;Target Group
+2010;0,3;0,7;0;0,4;NULL;NULL;0;0,1;0;0,2;2;Twitter;Spambots
+2010;0,2;0,8;0;0,4;NULL;NULL;0;0,2;0;0,4;3;Twitter;Spambots
+2010;0,3;0,7;0;0,4;NULL;NULL;0;0,1;0;0,1;2;Twitter;Spambots
+2010;0,3;0,7;0;0,4;NULL;NULL;0;0,1;0;0,1;2;Twitter;Spambots
+2010;0,3;0,8;0,2;0,8;NULL;NULL;0;0,2;0;0,7;0;Second Life;General
+2010;0;1;0,2;0,5;NULL;NULL;0;0,2;0,1;1;2;MySpace, Twitter;Spambots
+2011;0,4;0,7;0;0,6;NULL;NULL;0;0,1;0;0,1;2;Wikipedia;General
+2011;0;1;0;0,7;NULL;NULL;0;0,2;0,1;0,8;2;Renren;Botnets
+2011;0,4;0,8;0;0,6;0;0,2;0;1;0;0,1;2;Wikipedia;Trolls
+2012;0;0,6;0;0,4;0;0,5;0;0,2;0;0,1;3;Video Game;Compromised Accounts
+2012;0,2;0,8;0;1;0;0,6;0;0,5;0;0,1;2;Twitter;Hybrid
+2012;0,3;0,7;0;0,4;0;0,3;0;0,2;0;0,1;2;Twitter;Spambots, Promotion
+2012;0,3;1;0;0,7;NULL;NULL;0;0,5;0,1;1;2;Renren;Spambots
+2013;0,3;0,6;0;0,3;0,2;1;0;0,3;0;0,1;2;Blogs;Spambots
+2013;0;0,6;0;0,6;NULL;NULL;0;0,3;0,1;0,6;2;Video Game;Video Game
+2013;0,3;0,7;0;0,4;0;0,3;0;0,3;0,1;0,3;2;Twitter;Spambots
+2013;0,3;0,9;0;0,4;0;0,4;0;0,6;0;1;0;Facebook;Spambots, Botnets
+2013;0,4;0,8;0;0,5;0;0,3;0;0,4;0;0,8;0;Facebook;Botnets
+2013;0,4;0,7;0;0,4;NULL;NULL;0;0,4;0;0,2;2;Twitter;Spambots
+2013;0;0,6;0;0,5;NULL;NULL;0;0,3;0;0,3;2;Video Game;Video Game
+2013;0,3;0,8;0;0,4;NULL;NULL;0;0,3;0;0,4;2;Twitter;Spambots
+2013;0;1;0;0,4;NULL;NULL;0;0,2;0;0,1;2;LinkedIn;Spambots
+2013;0,2;0,8;0,2;0,8;NULL;NULL;0;0,5;0;0,8;2;Renren;Friend Spam, Botnets
+2014;0,2;0,7;0;0,3;0;0,3;0;0,4;0;0,3;2;Twitter;Fake Follower
+2014;0,2;0,8;0;0,3;0;0,3;0;0,3;0;0,3;2;Twitter;Fake Follower
+2014;0,4;0,9;0,6;1;0;0,2;0;0,3;0,1;0,5;3;Slashdot;Trolls
+2014;0;1;0;0,8;NULL;NULL;0;0,4;0;0,6;1;General;General
+2014;0;1;0;0,4;NULL;NULL;0;0,3;0;0,8;1;Twitter;General
+2014;0;1;0;0,7;NULL;NULL;0;0,4;0,1;1;3;General;General
+2014;0,3;1;0;0,6;0;0,6;0;0,5;0;0,1;2;Twitter;Spambots
+2014;0,4;1;0,2;0,7;0;0,7;0,2;1;0;0,6;3;Twitter;Botnets
+2014;0;0,9;0;0,6;0;0,5;0;0,6;0;0,1;0;Facebook;Promotion
+2014;0,3;0,8;0;0,7;NULL;NULL;0;0,5;0,1;0,7;3;General;Fake Follower, Promotion
+2014;0,3;0,8;0;0,7;0;0,6;0;0,5;0,1;0,6;2;Twitter;General
+2014;0,2;1;0;0,7;0;0,7;0;0,4;0,4;1;0;Facebook;Botnets
+2014;0;1;0;0,5;NULL;NULL;0;0,4;0;0,1;2;Twitter;Political
+2015;0,3;0,8;0;0,6;NULL;NULL;0;0,5;0;0,1;1;Twitter;General
+2015;0,3;0,8;0,2;0,7;NULL;NULL;0,3;0,6;0;0,4;1;Twitter;Spambots
+2015;0,4;1;0;0,6;0;0,5;0;0,4;0;0,1;2;Twitter;Political
+2015;0,5;1;0;1;0;0,5;0;0,4;0;0,1;2;Twitter;Other Language
+2015;0,2;0,8;0,2;0,7;0;0,5;0;0,6;0,1;0,7;0;Twitter;Friend Spam
+2015;0;1;0;0,8;NULL;NULL;0;0,9;0;0,5;0;Weibo;Spambots
+2015;0;0,7;0;0,8;0;0,5;0;0,4;0;0,1;2;LinkedIn;General
+2015;0,4;0,6;0;0,4;0;0,3;0;0,4;0;0,5;3;Twitter;Spambots, Promotion
+2015;0;1;0;0,4;0;0,4;0;0,5;0;1;2;Twitter;General
+2015;0;0,6;0;0,3;0;0,3;0;0,4;0;0,3;2;Twitter;Fake Follower
+2015;0,4;1;0;0,8;NULL;NULL;0;0,6;0,1;0,8;3;General;Botnets
+2015;0;1;0;0,7;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2015;0,4;0,9;0,4;0,8;0,2;0,7;0;0,3;0,1;0,8;2;Twitter;Botnets
+2015;0;1;0,2;0,8;0;0,3;0;0,5;0;0,6;2;Twitter;Botnets
+2015;0,2;0,8;0;0,8;0;0,3;0;0,4;0,1;0,4;1;Yelp, Twitter;General, Promotion
+2015;0,6;1;0,6;1;0;0,2;0;1;0;0,1;2;Twitter;Trolls
+2015;0;1;0;0,6;NULL;NULL;0;0,3;0;0,2;2;Twitter;General
+2015;0,5;1;0;1;0;0,2;0;0,5;0;0,1;1;Wikipedia;Trolls
+2016;0;1;0;0,7;NULL;NULL;0;0,4;0;0,8;0;Twitter;Botnets
+2016;0;0,8;0;0,5;NULL;NULL;0;0,4;0;0,1;3;Twitter;General
+2016;0,4;1;0;0,6;0;0,6;0;0,4;0;0,4;1;Twitter;Spambots
+2016;0,5;0,8;0,6;1;0;0,2;0,1;0,3;0;0,1;0;CNN, IGN, Breitbart;Trolls
+2016;0;1;0;0,6;NULL;NULL;0;0,4;0;0,1;2;Twitter;General
+2016;0;1;0;0,8;NULL;NULL;0;0,5;0,1;1;2;Twitter, Tencent Weibo;General
+2016;0;1;0,2;0,8;0;0,5;0;0,6;0;1;0;Twitter;General
+2016;0,1;0,7;0;0,4;0;0,4;0;0,4;0;0,1;3;Video Game;Video Game
+2016;0,3;0,8;0,1;0,5;0;0,3;0;0,5;0,1;0,8;2;Twitter;Fake Follower
+2016;0,4;0,7;0;0,4;0;0,3;0;0,4;0;0,1;2;Wikipedia;Sockpuppet
+2016;0,6;0,8;0;0,5;NULL;NULL;0;0,4;0;0,1;3;Facebook;Spambots, Rumor
+2016;0,3;0,6;0;0,5;0;0,5;0;0,4;0;0,4;0;Weibo;Fake Follower
+2016;0,3;0,8;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;Spambots
+2016;0,5;1;0;0,5;NULL;NULL;0;0,6;0;0,2;2;Twitter;General
+2016;0,4;0,9;0;0,7;0;0,5;0;0,6;0,1;0,8;2;Twitter;Botnets
+2016;0;1;0;0,8;NULL;NULL;0;0,6;0;0,8;0;Twitter;Botnets
+2016;0,6;1;0,6;1;0;0,2;0;0,5;0;0,2;2;Twitter;Trolls
+2016;0;1;0;1;NULL;NULL;0;0,6;0,1;1;0;General;General
+2016;0,5;0,9;0;0,6;NULL;NULL;0;0,5;0;0,4;2;Twitter;Hybrid, Friend Spam
+2016;0;1;0,2;0,8;NULL;NULL;0;0,6;0,1;0,9;0;Twitter;Botnets, Promotion
+2016;0,6;1;0;0,5;NULL;NULL;0;0,6;0;0,1;1;Dianping;General
+2016;0,4;0,6;0;0,5;0;0,4;0;0,4;0;0,1;2;Video Game;Video Game
+2016;0,5;1;0;0,6;0;0,5;0;0,4;0;0,2;0;Twitter, Facebook, Google+;Compromised Accounts
+2016;0,3;0,8;0;0,6;0;0,3;0;0,4;0;0,1;2;Amazon;Promotion
+2016;0,5;1;0;0,6;0;0,7;0;0,5;0;0,1;2;Twitter;General
+2016;0,3;1;0,2;0,7;NULL;NULL;0;0,4;0;0,5;3;Twitter;Botnets
+2016;0,3;1;0,5;1;0;0,6;0;1;0;0,5;2;Twitter;Hybrid, Trolls
+2016;0,5;1;0;0,8;0;0,5;0;0,5;0;0,6;1;Twitter;Promotion, Political
+2016;0,5;1;0;0,9;0;0,6;0;0,8;0;0,6;2;Twitter;Botnets
+2016;0,3;1;0,1;0,7;NULL;NULL;0;0,5;0;0,5;0;Hyves;Spambots
+2016;0,4;0,8;0,6;1;0;0,3;0;0,6;0;0,2;2;Weibo;Trolls
+2016;0;1;0;0,6;NULL;NULL;0;0,5;0;0,1;0;Twitter;General
+2017;0,5;1;0,4;0,9;0,3;0,6;0,4;1;0,2;0,7;2;Facebook;Botnets
+2017;0,7;1;0,4;0,6;NULL;NULL;0;0,4;0;0,3;1;Twitter;Political
+2017;0,4;0,7;0;0,6;0;0,3;0;0,5;0;0,1;2;Twitter;General
+2017;0,2;1;0;0,8;NULL;NULL;0;0,7;0;1;2;Facebook;General
+2017;0,3;0,8;0,5;1;0;0,4;0;0,6;0;0,2;3;General;Trolls
+2017;0,4;0,7;0;0,6;0;0,3;0;0,4;0;0,1;2;Wikipedia;General
+2017;0,2;0,8;0;0,6;NULL;NULL;0;0,4;0;0,2;2;Twitter;General
+2017;0,3;0,9;0;0,7;0,2;0,5;0;0,5;0,1;0,8;0;Facebook;Botnets
+2017;0;0,8;0;0,6;0,1;0,6;0;0,5;0;0,4;1;Twitter;General
+2017;0;1;0;0,8;0;0,7;0;0,8;0,1;0,9;0;Twitter;Botnets
+2017;0;1;0;0,4;NULL;NULL;0;0,7;0;0,1;3;LinkedIn;General
+2017;0;1;0;0,5;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2017;0,3;0,8;0;1;0;0,4;0;0,5;0;0,1;1;Renren, Whisper;Trolls
+2017;0,6;0,9;0,6;1;0;0,1;0;0,3;0;0,1;3;Facebook;Compromised Accounts
+2017;0;1;0;1;NULL;NULL;0;1;0;1;3;General;General
+2017;0,7;1;0;1;0;0,5;0;0,5;0;0,1;2;Twitter;Political
+2017;0,5;1;0;1;0;0,2;0;0,3;0;0,1;2;Pokec;Compromised Accounts
+2017;0;0,6;0;0,4;NULL;NULL;0;0,5;0;0,3;2;Twitter;Fake Follower
+2017;0;1;0;0,5;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2017;0,3;0,8;0,2;0,5;0;0,4;0;0,4;0;0,6;2;Twitter;Fake Follower
+2017;0;0,5;0;0,8;0,3;0,6;0;0,6;0,1;1;2;Twitter;Botnets
+2017;0,4;0,8;0;0,7;0;0,5;0;0,6;0,1;0,8;2;Twitter;Botnets
+2017;0,5;1;0;0,7;0;0,6;0;0,6;0;1;0;Twitter;Botnets
+2017;0,6;1;0;0,8;NULL;NULL;0;0,6;0;0,1;0;Twitter;General
+2017;0;1;0;0,6;NULL;NULL;0;0,6;0;0,1;3;Twitter;Other Location
+2017;0,6;1;0;0,7;0;1;0;0,5;0,1;0,7;3;Twitter;Political
+2017;0,6;1;0;0,6;0;0,6;0;0,7;0;0,1;2;Twitter;Spambots
+2017;0,3;0,7;0,4;1;0;0,2;0;0,4;0;0,1;2;Twitter;Trolls
+2017;0,2;0,8;0;0,8;0;0,6;0;0,6;0;0,1;2;Facebook;Fake Follower
+2017;0,3;1;0;0,7;NULL;NULL;0;0,6;0;0,5;2;Twitter;General
+2017;0;1;0;0,7;NULL;NULL;0;0,6;0;0,4;0;Twitter;General
+2017;0;1;0,2;0,7;NULL;NULL;0;0,7;0;0,4;0;Twitter;General
+2017;0,4;0,7;0;0,4;0;0,4;0;0,4;0;0,1;2;Twitter;Spambots
+2017;0,6;0,9;0;0,5;NULL;NULL;0;0,7;0;0,3;3;General;Identity Theft
+2017;0,6;1;0;0,5;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2017;0,3;1;0;0,6;NULL;NULL;0;0,5;0;0,3;1;Twitter;General
+2017;0;0,7;0;0,7;NULL;NULL;0;0,3;0;0,7;3;Twitter;Fake Follower, Promotion
+2017;0,4;0,7;0,2;0,7;NULL;NULL;0;0,6;0;0,5;2;WeChat;Botnets
+2017;0;1;0;1;0;0,6;0,3;1;0;0,1;3;Twitter;Nonexisting
+2017;0;1;0;0,6;NULL;NULL;0;0,6;0;0,1;1;Twitter;Spambots
+2017;0;1;0;0,5;NULL;NULL;0;0,5;0;0,1;2;Twitter, Weibo;Spambots
+2017;0,2;0,7;0;0,5;NULL;NULL;0;0,4;0;0,1;2;Weibo;General
+2017;0;1;0;0,8;NULL;NULL;0;0,5;0;0,6;2;Twitter;Botnets
+2017;0,2;0,7;0;0,7;NULL;NULL;0;0,5;0;0,5;2;Twitter;Fake Follower
+2017;0;1;0;0,5;NULL;NULL;0;0,5;0;0,1;3;Twitter;General
+2017;0,5;1;0;0,4;NULL;NULL;0;0,4;0;0,1;2;Twitter;General
+2017;0,2;0,7;0;0,4;NULL;NULL;0;0,4;0;0,1;0;Reddit, Flipkart;Promotion
+2017;0,3;1;0;0,8;NULL;NULL;0;0,6;0,1;0,6;3;Twitter, Reddit;Botnets
+2018;0,4;0,8;0,6;1;0;0,2;0;0,6;0;0,1;2;Twitter;Trolls
+2018;0,3;0,9;0;0,5;0,2;0,5;0;0,4;0;0,7;2;Twitter;Spambots
+2018;0;1;0;0,9;NULL;NULL;0;0,5;0,3;0,6;0;Twitter;Botnets
+2018;0,5;1;0;0,9;NULL;NULL;0;0,8;0;0,1;2;Twitter;General
+2018;0,5;1;0;0,8;0;0,6;0,2;0,6;0,1;1;0;Twitter;Spambots
+2018;0,2;0,8;0;0,5;NULL;NULL;0;0,4;0;0,3;2;Twitter;Other Language
+2018;0,3;0,9;0;0,5;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2018;0;1;0;0,7;0;0,6;0;0,6;0,1;0,8;2;Twitter;Botnets
+2018;0;1;0;0,9;0;1;0;0,8;0;0,1;2;Blogs;General
+2018;0,5;1;0;1;0;0,6;0;0,6;0;0,5;3;Twitter;Hybrid
+2018;0,4;1;0;0,8;0;0,4;0;0,6;0;0,4;2;Twitter;Political
+2018;0;1;0;0,8;NULL;NULL;0;1;0;0,8;1;Facebook, Weibo;Spambots
+2018;0,3;0,9;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;Spambots
+2018;0,2;1;0;0,6;NULL;NULL;0;0,7;0;0,1;2;Twitter;General
+2018;0;1;0,2;0,8;NULL;NULL;0;0,7;0,1;0,6;2;Renren;Botnets
+2018;0,2;0,8;0;0,6;0,3;0,8;0;0,6;0;0,1;2;Twitter;General
+2018;0,7;1;0;0,6;NULL;NULL;0;0,7;0;0,1;0;Twitter;General
+2018;0;1;0;0,5;NULL;NULL;0;0,6;0;0,1;2;Twitter;Spambots
+2018;0;0,5;0;0,3;NULL;NULL;0;0,5;0;0,4;0;SoundCloud, Twitter;Promotion
+2018;0;1;0;0,6;NULL;NULL;0;0,7;0;0,1;2;Twitter;General
+2018;0,1;0,9;0,2;0,6;NULL;NULL;0;0,4;0;0,5;2;Twitter;Botnets
+2018;0,4;0,8;0;0,4;NULL;NULL;0;0,3;0;0,2;2;Twitter;Spambots
+2018;0,5;0,9;0;0,6;NULL;NULL;0;0,7;0,1;0,7;0;Twitter;Spambots
+2018;0,4;1;0;0,9;0;0,2;0;0,5;0;0,1;2;Twitter;Trolls
+2018;0,3;0,8;0;0,5;0,3;0,7;0;0,4;0;0,1;2;Twitter;Spambots
+2018;0,4;0,7;0;0,4;0;0,4;0;0,4;0;0,8;2;Tripadvisor, Dianping;Clickfarming
+2018;0;1;0;0,9;NULL;NULL;0,6;1;0;0,1;3;General;Spambots
+2018;0,5;1;0;0,7;0,3;1;0;0,6;0;0,3;2;Twitter;General
+2018;0,5;0,7;0;0,3;NULL;NULL;0;0,3;0;0,4;2;Facebook;Spambots
+2018;0,3;0,8;0;0,4;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2018;0;1;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2018;0,3;1;0,2;0,8;NULL;NULL;0;0,7;0;0,5;1;Twitter, Vkontakte;General
+2018;0,4;1;0;0,7;NULL;NULL;0;0,6;0;0,3;2;Twitter;Political
+2018;0,4;1;0;0,5;0;0,5;0;0,6;0;0,2;2;Twitter;Political
+2018;0;1;0;0,7;NULL;NULL;0;1;0;0,1;0;Twitter;Nonexisting
+2018;0;1;0;0,5;0;0,6;0;0,5;0;0,1;2;Twitter;General
+2018;0;1;0,2;0,8;0;0,6;0;0,6;0;0,5;1;Twitter;Botnets
+2018;0,4;1;0;0,6;0;0,5;0;0,7;0;0,6;1;Twitter;Sockpuppet
+2018;0,5;1;0,5;1;0;0,2;0;1;0;0,4;2;Twitter;Trolls
+2018;0,3;1;0;0,6;0;0,5;0;0,6;0;0,1;2;Twitter;Compromised Accounts
+2018;0;1;0;0,5;0,3;0,6;0;0,5;0;0,1;2;Twitter;General
+2018;0,3;0,8;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2019;0,7;1;0;0,4;NULL;NULL;0;0,6;0;0,1;2;Twitter;Political
+2019;0,3;0,8;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;Promotion
+2019;0,3;0,9;0;0,5;0,2;0,5;0;0,8;0;0,5;2;Twitter;General
+2019;0,5;1;0,4;0,8;NULL;NULL;0,3;0,6;0,3;0,8;2;Twitter;Adversarial Detector
+2019;0,3;0,9;0,5;0,8;0,3;0,6;0,2;0,8;0,2;0,7;2;Twitter;Botnets
+2019;0,5;1;0,6;1;0;0,2;0;0,7;0;0,1;1;Twitter;Trolls
+2019;0,4;0,9;0,2;0,9;0;0,6;0;0,7;0,2;1;1;Twitter;General
+2019;0;1;0;0,9;0,3;0,5;0;1;0;1;3;Twitter;Nonexisting
+2019;0;0,8;0;0,8;0,2;0,6;0;0,5;0,1;0,7;3;Twitter;Botnets
+2019;0,2;1;0;0,7;NULL;NULL;0;0,5;0;0,2;2;Twitter;General
+2019;0;1;0;0,4;NULL;NULL;0;0,4;0;0,1;2;Twitter;General
+2019;0;0,8;0;0,8;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2019;0;1;0;0,6;NULL;NULL;0;0,4;0;0,1;2;Twitter;General
+2019;0;1;0;0,6;NULL;NULL;0;0,7;0;0,1;3;Twitter;General
+2019;0,4;1;0;0,7;NULL;NULL;0;0,6;0;0,7;1;Twitter;Spambots
+2019;0;1;0;0,9;NULL;NULL;0;0,8;0;0,1;2;WeChat;General
+2019;0;1;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2019;0,6;1;0;0,5;NULL;NULL;0;0,6;0;0,1;1;Twitter;General
+2019;0,4;0,9;0,2;0,4;NULL;NULL;0;0,4;0;0,1;2;Facebook;Comment Bots
+2019;0,5;1;0;0,5;0;0,6;0;0,7;0;0,3;2;Twitter;Political
+2019;0;1;0,4;0,7;0,3;0,6;0;0,6;0;0,1;3;Twitter;Hybrid
+2019;0,5;1;0;0,6;0;0,5;0;0,7;0;0,1;2;Twitter;Political
+2019;0,4;1;0;0,8;NULL;NULL;0;0,7;0;0,8;0;Facebook;Botnets
+2019;0,4;0,9;0;0,5;NULL;NULL;0;0,6;0;0,3;3;Twitter;Other Language
+2019;0,4;0,8;0;0,7;0;0,5;0;0,6;0;0,1;2;Instagram;Hybrid
+2019;0;1;0;0,4;NULL;NULL;0;0,4;0;0,1;2;Twitter;General
+2019;0;1;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2019;0,5;1;0;0,7;0;1;0;0,6;0;0,3;1;Twitter;Political
+2019;0,6;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2019;0;1;0,2;0,8;NULL;NULL;0;0,6;0,1;0,6;3;Twitter;Botnets
+2019;0;1;0;0,6;NULL;NULL;0;1;0;0,1;2;Twitter;Spambots
+2019;0;1;0;0,5;NULL;NULL;0;0,6;0;0,1;2;General;General
+2019;0,4;1;0;0,7;0;0,3;0;0,2;0;0,6;2;Twitter;Political
+2019;0;1;0;0,6;NULL;NULL;0;0,6;0;0,2;0;Twitter;Botnets
+2019;0,5;1;0;0,6;0;0,5;0;0,7;0;0,1;2;Twitter;Political
+2019;0,4;0,9;0;0,7;NULL;NULL;0;0,6;0;0,6;2;Twitter;Botnets
+2019;0;1;0;0,6;NULL;NULL;0;0,9;0;0,1;3;Twitter;Nonexisting
+2019;0;1;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2019;0,4;1;0;0,4;NULL;NULL;0;0,5;0;0,1;2;Twitter;Political
+2019;0,2;0,7;0;0,6;NULL;NULL;0;0,6;0;0,2;1;Twitter;General
+2019;0,3;0,8;0;0,5;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2019;0;1;0;0,7;0;1;0;0,6;0;0,5;1;Twitter;Spambots
+2020;0;1;0;0,6;NULL;NULL;0;0,6;0;0,2;1;Instagram;General
+2020;0;1;0;0,7;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2020;0,5;1;0,3;0,6;0;0,5;0,3;0,8;0;0,7;0;Twitter;Political
+2020;0,3;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;Other Language, General
+2020;0,2;1;0,2;0,8;NULL;NULL;0;0,5;0,1;0,6;1;Twitter;Spambots
+2020;0,4;1;0;0,6;NULL;NULL;0;0,8;0;0,1;0;Twitter;Fake News
+2020;0;1;0;1;0;1;0,6;1;0;0,1;3;Twitter;Nonexisting
+2020;0,3;0,8;0;0,7;0;0,7;0;0,6;0;0,3;2;Twitter;Fake Follower
+2020;0,4;0,9;0;0,7;NULL;NULL;0;0,7;0;0,5;2;Twitter;Botnets
+2020;0;1;0;0,8;NULL;NULL;0;0,6;0;0,5;2;Twitter;Botnets
+2020;0,1;0,9;0;0,5;NULL;NULL;0;0,6;0;0,1;3;Twitter;General
+2020;0;1;0;0,5;0,2;1;0;0,6;0;0,1;2;General;General
+2020;0,5;1;0;0,7;0;0,6;0;0,6;0;0,2;2;KakaoTalk;Botnets
+2020;0,4;0,8;0,2;0,8;0;0,3;0,1;0,7;0,1;1;2;Instagram;Fake Follower
+2020;0;1;0;0,6;NULL;NULL;0;0,7;0;0,2;2;Twitter;General
+2020;0,2;1;0;0,5;0;0,6;0;0,5;0;0,1;1;Twitter;Spambots
+2020;0,3;1;0,1;0,7;NULL;NULL;0;0,6;0;0,4;2;Twitter;Spambots
+2020;0,4;1;0;1;NULL;NULL;0,4;1;0;0,1;2;Twitter;General
+2020;0;1;0;0,9;0;0,3;0,6;1;0;0,1;2;General;Sockpuppet
+2020;0;1;0;0,7;0;0,6;0;0,5;0;0,1;3;Twitter;General
+2020;0;1;0;0,6;NULL;NULL;0;0,6;0;0,2;0;Twitter;General
+2020;0,5;1;0;0,5;0;0,3;0;0,6;0;0,1;3;Twitter;Trolls
+2020;0;1;0;0,8;0;0,8;0;0,8;0,1;0,9;0;Twitter;Botnets
+2020;0;0,8;0;0,5;0;0,3;0;0,8;0;0,2;2;Twitter;Botnets
+2020;0;1;0;0,6;NULL;NULL;0;0,6;0;0,1;0;Twitter;General
+2020;0,6;1;0;0,6;NULL;NULL;0;0,6;0;0,2;2;Twitter;General
+2020;0,6;1;0;0,8;0;0,3;0;0,6;0;0,5;2;Twitter;Botnets
+2020;0,4;1;0;0,6;NULL;NULL;0;0,6;0;0,2;0;General;Botnets
+2020;0;0,6;0;0,4;0;0,6;0;0,5;0;0,1;1;Video Game;Video Game
+2020;0,4;1;0;0,7;0;0,6;0;0,8;0;0,4;2;Twitter, Facebook, Google+;Identity Theft
+2020;0,5;1;0;0,5;NULL;NULL;0;0,5;0;0,1;2;Twitter;Political
+2020;0;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2020;0;1;0;0,6;NULL;NULL;0;1;0;0,1;1;Video Game;Video Game
+2020;0;1;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2020;0;1;0,2;0,8;0;0,4;0;0,6;0;0,5;2;Twitter;Botnets
+2020;0;1;0;0,7;NULL;NULL;0;0,6;0;0,3;2;Twitter;Spambots
+2020;0,3;0,8;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Video Game;Video Game
+2020;0,4;1;0;0,5;0;0,5;0,4;0,9;0;0,1;2;Twitter;Trolls, General
+2020;0,4;0,9;0;0,5;NULL;NULL;0;0,7;0;0,1;2;Twitter;Health
+2020;0,5;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter, Facebook;General
+2020;0,5;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2020;0;1;0;0,8;NULL;NULL;0;0,5;0,1;1;1;Twitter;Spambots
+2020;0,5;1;0,2;0,8;NULL;NULL;0;0,7;0,1;0,5;1;Twitter;Botnets
+2020;0;1;0;0,6;NULL;NULL;0;0,9;0;0,1;2;Twitter;General
+2021;0,7;1;0;0,7;0;0,6;0,2;0,7;0;0,6;3;Twitter;Fake News, Political
+2021;0,4;1;0;0,8;NULL;NULL;0;0,7;0,1;0,7;2;Twitter;Compromised Accounts
+2021;0;1;0;0,8;NULL;NULL;0;0,6;0;0,6;2;General;Fake News
+2021;0;1;0;0,9;NULL;NULL;0;0,8;0;0,1;3;Twitter;General
+2021;0,2;0,8;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2021;0;1;0;0,8;NULL;NULL;0;0,6;0,1;0,8;1;Twitter;Botnets
+2021;0,3;1;0;0,7;NULL;NULL;0;0,8;0;0,4;2;Twitter;Fake News
+2021;0,3;1;0;0,6;0,6;1;0;1;0;0,1;3;Twitter;General
+2021;0,6;1;0,6;1;0;0,3;0;0,4;0;0,1;2;Twitter;Trolls
+2021;0;1;0;0,8;NULL;NULL;0;0,7;0;0,6;2;Twitter, Facebook, Instagram;General
+2021;0,5;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2021;0;1;0;0,7;NULL;NULL;0;0,6;0;0,4;0;Twitter;General
+2021;0,6;1;0;0,6;NULL;NULL;0;0,5;0;0,1;1;Twitter;General
+2021;0,3;1;0,2;0,8;NULL;NULL;0;0,6;0;0,5;1;Facebook, Blogs;General
+2021;0,6;1;0;0,7;0;0,6;0,2;0,7;0,1;0,5;3;General;Political
+2021;0,7;1;0;0,9;0;0,6;0;0,6;0,1;0,8;0;Twitter;Political
+2021;0,4;1;0;0,6;NULL;NULL;0;0,6;0;0,2;2;Twitter;General
+2021;0,4;1;0;0,5;0;1;0;0,5;0;0,7;0;General;General
+2021;0;1;0;0,6;NULL;NULL;0;0,6;0;0,2;2;Twitter;General
+2021;0,8;1;0;0,7;0;0,5;0;0,8;0;0,3;0;Twitter;Other Language, Crime
+2021;0,3;1;0;0,8;0;0,6;0;0,6;0;1;1;Twitter;Political
+2021;0;1;0;0,6;0,2;0,5;0;0,6;0;0,1;3;Twitter;General
+2021;0,3;1;0;0,6;NULL;NULL;0;0,5;0;0,1;2;Twitter;General
+2021;0,2;0,7;0;0,4;NULL;NULL;0;0,6;0;0,1;2;General;Spambots
+2021;0;1;0;1;NULL;NULL;0;1;0;0,4;1;Twitter;General
+2021;0;1;0;0,7;0;1;0;0,8;0;0,5;2;Twitter;General
+2021;0;1;0;0,6;NULL;NULL;0;0,6;0;0,2;2;Twitter;General
+2021;0;1;0;0,8;0;0,3;0;0,7;0;0,4;3;Twitter;Spambots
+2021;0,4;1;0;0,6;0;0,6;0;0,5;0;0,1;2;Twitter;Political
+2021;0,3;1;0;0,6;NULL;NULL;0,4;0,8;0;0,1;3;Twitter;General
+2021;0;1;0;0,6;0;0,5;0;0,5;0;0,1;2;Twitter;General
+2021;0,2;0,8;0,2;0,6;0;0,3;0;0,4;0;0,1;2;Weibo;Fake Follower
+2022;0,7;1;0;0,6;NULL;NULL;0,2;0,7;0;0,3;3;Twitter;Fake News
+2022;0;0,6;0;0,6;0,3;0,5;0;0,6;0;0,1;2;Video Game;Video Game
+2022;0;1;0;1;0;1;0,6;1;0;1;3;General;Fake News, General
+2022;0;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2022;0,3;1;0,2;0,8;NULL;NULL;0;0,8;0;0,5;2;Twitter;General
+2022;0,5;1;0;0,6;NULL;NULL;0;1;0;0,1;3;General;General
+2022;0,4;1;0,2;0,8;NULL;NULL;0;0,8;0;0,7;0;Twitter;Financial
+2022;0,3;1;0,2;0,8;0;0,2;0;0,7;0;0,5;0;Twitter;Trolls
+2022;0;1;0;0,4;NULL;NULL;0;0,8;0;0,1;3;General;General
+2022;0,6;1;0;0,7;NULL;NULL;0;1;0;1;0;General;General
+2022;0,3;0,8;0;0,6;NULL;NULL;0;0,6;0;0,3;2;Twitter;General
+2022;0;1;0;0,6;NULL;NULL;0;1;0;0,1;1;Twitter;General
+2022;0;1;0;0,6;NULL;NULL;0;0,6;0;0,2;2;Twitter;General
+2022;0,4;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;Spambots
+2022;0,5;1;0;0,7;NULL;NULL;0;0,7;0;0,1;2;Twitter;General
+2022;0,3;0,9;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2022;0;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2022;0;1;0;0,6;NULL;NULL;0;0,6;0;0,1;2;Twitter;General
+2022;0,5;1;0;0,6;NULL;NULL;0;0,6;0;0,2;2;Twitter;General
+2022;0,3;0,7;0;0,5;NULL;NULL;0;0,5;0;0,1;0;Video Game;Video Game
+2022;0;0,7;0;0,2;NULL;NULL;0;0,3;0;0,1;3;Twitter;General
