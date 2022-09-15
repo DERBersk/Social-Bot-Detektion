@@ -1,3 +1,4 @@
+# Funktion gibt eine Liste aller Elemente einer Spalte aus, die mit einem "," getrennt sind.
 seperateByComma <- function(lis) {
   res = c()
   j = 1
@@ -16,6 +17,7 @@ seperateByComma <- function(lis) {
   return(res)
 }
 
+# Funktion gibt eine Liste aller Elemente eines SpaltenELEMENTES aus, die mit einem "," getrennt sind.
 giveElementByComma <- function(lis, index) {
   res = c()
   if (grepl(", ", lis[index])) {

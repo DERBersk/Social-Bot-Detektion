@@ -1,3 +1,4 @@
+# Funktion zur Visualisierung der Korrelation aller Dimensionskomponenten
 createCorPlot <- function(data){
   pkgTest("corrplot")
   

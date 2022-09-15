@@ -1,8 +1,4 @@
-
-
-# Netzwerkgruppen: 10:12 (netzwerkU,netzwerkO,nnAnsatz), 3 Cluster
-# Weiter Gruppen:
-
+# Funktion zur Erstellung einer Darstellung zur Visualisierung der Clusteranalyse von Gruppenbasierten und Gegnerbasierten Ansätzen
 clusterPlot <- function(data,Group=TRUE) {
   if(Group){
     ggplot(

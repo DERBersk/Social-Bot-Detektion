@@ -1,3 +1,4 @@
+# Function erstellt eine Wordcloud mit entweder der Spalte Target.Group oder SNS.
 createWC <- function(column, data, dark = FALSE) {
   if (column == "Target.Group" || column == "SNS") {
     Target = table(seperateByComma(data[, column]))

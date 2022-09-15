@@ -1,3 +1,4 @@
+# Funktion zu der Erstellung eines dataframes mit dem relativen Auftreten einer Dimension in Abhängigkeit des gewählten technischen Ansatzes
 createFeatureToNNAnsatz <- function(column, data) {
   if (length(data[, paste0(column, 'O')]) == 0) {
     return("ERROR")
@@ -34,6 +35,7 @@ createFeatureToNNAnsatz <- function(column, data) {
   return(result)
 }
 
+# Funktion zur Visualisierung des Dataframes aus createFeatureToNNAnsatz
 createFeatureToNNAnsatzMatrix <- function(column, data) {
   library(reshape2)
   library(ggplot2)

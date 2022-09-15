@@ -1,3 +1,4 @@
+# Funktion zur Darstellung der Publikationen über Zeit
 timeAnalysis <- function(data) {
   resTable <- table(data[, "Publikationsjahr"])
   resData <-
@@ -13,6 +14,7 @@ timeAnalysis <- function(data) {
          y = "Anzahl der Publikationen")
 }
 
+# Funktion zur Darstellung der verschiedenen technischen Ansätze über Zeit
 timeAnalysisOfNNAnsatz <- function(data) {
   resTable <- table(data[, "Publikationsjahr"], data[, "nnAnsatz"])
   resData = data.frame(
@@ -50,6 +52,7 @@ timeAnalysisOfNNAnsatz <- function(data) {
          color = "Legende")
 }
 
+# Funktion zur Darstellung der Entwicklung der Steuerungsorientierung über Zeit
 timeAnalysisSteuerung <- function(data,rel=FALSE) {
   resTable <-
     table(is.na(data[, "SteuerungO"]), data[, "Publikationsjahr"])
@@ -82,6 +85,7 @@ timeAnalysisSteuerung <- function(data,rel=FALSE) {
   }
 }
 
+# Funktion zur Darstellung der Entwicklung der Gruppenbasierung über Zeit
 timeAnalysisGroup <- function(data,rel=FALSE) {
   resTable <-
     table(data[, "group"], data[, "Publikationsjahr"])
@@ -114,6 +118,7 @@ timeAnalysisGroup <- function(data,rel=FALSE) {
   }
 }
 
+# Funktion zur Darstellung der Entwicklung der Gegnerbasierung über Zeit
 timeAnalysisAdversarial <- function(data,rel=FALSE) {
   resTable <-
     table(data[, "adversarial"], data[, "Publikationsjahr"])

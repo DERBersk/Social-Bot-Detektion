@@ -1,3 +1,4 @@
+# Funktionen zur Erstellung einer Darstellung von Beispiel-Botarten
 createExampleDistributionZielrichtung <- function() {
   library(reshape2)
   library(ggplot2)
@@ -31,14 +32,6 @@ createExampleDistributionZielrichtung <- function() {
             text=element_text(family="CMU Serif",),
             axis.text.x = element_text(angle = 45,hjust=1))
   )
-}
-
-generateZielrichtung <- function(){
-  cairo_pdf("RZielrichtung.pdf", height=2, width=8)
-  
-  createExampleDistributionZielrichtung()
-  
-  dev.off()
 }
 
 createExampleDistributionImitation <- function() {
@@ -75,14 +68,6 @@ createExampleDistributionImitation <- function() {
   )
 }
 
-generateImitation <- function(){
-  cairo_pdf("RImitation.pdf", height=2, width=8)
-  
-  createExampleDistributionImitation()
-  
-  dev.off() 
-}
-
 createExampleDistributionSteuerung <- function() {
   library(reshape2)
   library(ggplot2)
@@ -115,14 +100,6 @@ createExampleDistributionSteuerung <- function() {
             text=element_text(family="CMU Serif",),
             axis.text.x = element_text(angle = 45,hjust=1))
   )
-}
-
-generateSteuerung <- function(){
-  cairo_pdf("RSteuerung.pdf", height=2, width=8)
-  
-  createExampleDistributionSteuerung()
-  
-  dev.off()
 }
 
 createExampleDistributionNeuheit <- function() {
@@ -159,14 +136,6 @@ createExampleDistributionNeuheit <- function() {
   )
 }
 
-generateNeuheit <- function(){
-  cairo_pdf("RNeuheit.pdf", height=2, width=8)
-  
-  createExampleDistributionNeuheit()
-  
-  dev.off()
-}
-
 createExampleDistributionNetzwerk <- function() {
   library(reshape2)
   library(ggplot2)
@@ -199,12 +168,4 @@ createExampleDistributionNetzwerk <- function() {
             text=element_text(family="CMU Serif",),
             axis.text.x = element_text(angle = 45,hjust=1))
   )
-}
-
-generateNetzwerk <- function(){
-  cairo_pdf("RNetzwerk.pdf", height=2, width=8)
-  
-  createExampleDistributionNetzwerk()
-  
-  dev.off()
 }

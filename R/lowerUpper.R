@@ -1,5 +1,4 @@
-# Beinhaltet alle Funktionen zur
-
+#Funktion zur Erstellung eines dataframes, welcher den Durchschnitt der Ober, der Unter, den gesamtdurchschnitt und die Extrema jedes Jahres beinhaltet
 createLowerUpperEachYear <- function(column, data) {
   print("createLowerUpperEachYear called")
   if (length(data[, paste0(column, 'O')]) == 0) {
@@ -34,6 +33,7 @@ createLowerUpperEachYear <- function(column, data) {
   }
 }
 
+# Funktion zur Visualisierung des Dataframes aus createLowerUpperEachYear
 createLowerUpperBP <- function(column, data) {
   lowerUpper <- createLowerUpperEachYear(column, data)
   ggplot(

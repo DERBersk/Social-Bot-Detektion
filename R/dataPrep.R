@@ -1,3 +1,4 @@
+# Funktion zur Vorbereitung der Daten für die Datenanalyse
 prepData <- function(data) {
   for (i in 1:length(data$NeuheitO)) {
     if (data$NeuheitO[i] == "NULL") {
